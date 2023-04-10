@@ -1,0 +1,26 @@
+{
+    "livros": [
+     {
+      "nomeDoLivro": "Extraordinário",
+      "tomboDoLivro": "01",
+      "aluno": "Assis",
+      "turmaDoAluno": "Professores",
+      "serieDoAluno": "4"
+     },
+     {
+      "nomeDoLivro": "noite",
+      "tomboDoLivro": "23",
+      "aluno": "Gustavo",
+      "turmaDoAluno": "infor",
+      "serieDoAluno": "3"
+     },
+     {
+      "nomeDoLivro": "dia",
+      "tomboDoLivro": "31",
+      "aluno": "Alexandre",
+      "turmaDoAluno": "infor",
+      "serieDoAluno": "3"
+     }
+    ]
+   }
+   
